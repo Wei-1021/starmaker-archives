@@ -4,8 +4,8 @@
     "name": "安娜 (Anna) - 女主角",
     "role": "MAIN",
     "locations": ["家", "教堂", "商场", "健身房", "市中心", "海滨", "野外旅行", "花店", "荒地", "牧场"],
-    "avatarUrl": "/images/安娜.png",
-    "images": ["/images/安娜.png", "/images/安娜善良.png", "/images/安娜堕落.png"],
+    "avatarUrl": "./images/安娜.png",
+    "images": ["./images/安娜.png", "./images/安娜善良.png", "./images/安娜堕落.png"],
     "description": "💖 女主角，核心剧情人物\n\n🎭 路线选择机制：\n[g]天使图标[/g] - 保持纯洁行为减少堕落值\n[r]恶魔图标[/r] - 调皮行为增加堕落值\n\n📊 路线判定：\n[g]浪漫路线[/g] - 堕落值 ≤ 10\n[r]放纵路线[/r] - 堕落值 > 10\n\n🌟 安娜的5颗心会根据堕落/善良值自动选择最终路线",
     "unlockConditions": "初始角色",
     "guideSteps": [
@@ -56,7 +56,7 @@
     "name": "阿德里安 (Adrian) - 家庭成员",
     "role": "MAIN",
     "locations": ["家", "海滨", "霓虹灯街", "教堂", "野外旅行"],
-    "avatarUrl": "/images/阿德里安.png",
+    "avatarUrl": "./images/阿德里安.png",
     "description": "家庭成员，关键剧情人物。看完约瑟夫和阿德里安的对话后，前往他的房间。可以选择让他离开或留下。",
     "unlockConditions": "初始角色",
     "guideSteps": [
@@ -75,7 +75,7 @@
     "name": "约瑟夫 (Joseph) - 家庭成员",
     "role": "MAIN",
     "locations": ["家", "门前", "野外旅行"],
-    "avatarUrl": "/images/约瑟夫.png",
+    "avatarUrl": "./images/约瑟夫.png",
     "description": "可以有两次机会让约瑟夫离开：一次是共享伊莎贝拉后告诉安娜，一次是入口选择不安慰并羞辱他。",
     "unlockConditions": "初始角色",
     "guideSteps": [
@@ -93,7 +93,7 @@
     "name": "夏洛特 (Charlotte) - 富家女",
     "role": "MAIN",
     "locations": ["家", "客厅", "商场", "车库", "游艇"],
-    "avatarUrl": "/images/夏洛特.png",
+    "avatarUrl": "./images/夏洛特.png",
     "description": "富家女，拥有游艇。周一在客厅与夏洛特和安娜交谈三次，她会在周一早上邀请您到她的游艇上。",
     "unlockConditions": "周一客厅对话触发。",
     "guideSteps": [
@@ -108,7 +108,7 @@
     "name": "肯 (Ken) - 头号粉丝",
     "role": "SUPPORT",
     "locations": ["郊区住宅", "郊区泳池", "工作室"],
-    "avatarUrl": "/images/肯.png",
+    "avatarUrl": "./images/肯.png",
     "description": "头号粉丝，萨曼莎的儿子。与安娜达到2颗心后，肯将在星创平台上发送邮件。",
     "unlockConditions": "安娜2颗心后收到邮件。",
     "guideSteps": [
@@ -124,7 +124,7 @@
     "name": "萨曼莎 (Samantha) - 郊区女主人",
     "role": "SUPPORT",
     "locations": ["郊区住宅", "郊区泳池"],
-    "avatarUrl": "/images/萨曼莎.png",
+    "avatarUrl": "./images/萨曼莎.png",
     "description": "肯的母亲，郊区住宅的女主人。与肯互动后，可以在郊区住宅找到她。",
     "unlockConditions": "与肯互动后解锁",
     "guideSteps": [
@@ -140,7 +140,7 @@
     "name": "凯特 (Kate) - 校友",
     "role": "SUPPORT",
     "locations": ["商场", "市中心", "健身房"],
-    "avatarUrl": "/images/凯特.png",
+    "avatarUrl": "./images/凯特.png",
     "description": "商场工作人员，健身爱好者。可以在健身房和商场遇到她。",
     "unlockConditions": "在健身房或商场多次偶遇后解锁",
     "guideSteps": [
@@ -159,7 +159,7 @@
     "name": "弗罗斯特 (Frost) - 医生",
     "role": "SUPPORT",
     "locations": ["野外旅行", "营地", "森林"],
-    "avatarUrl": "/images/弗罗斯特.png",
+    "avatarUrl": "./images/弗罗斯特.png",
     "description": "野外旅行中的角色，经常与妮娜一起出现。",
     "unlockConditions": "在野外旅行中多次偶遇后解锁",
     "guideSteps": [
@@ -174,7 +174,7 @@
     "name": "赛里斯 (Celes) - AI角色",
     "role": "SUPPORT",
     "locations": ["马里奥豪宅", "实验室", "图书馆"],
-    "avatarUrl": "/images/赛里斯.png",
+    "avatarUrl": "./images/赛里斯.png",
     "description": "AI角色，隐藏在马里奥豪宅实验室中。需要解锁实验室才能遇到。",
     "unlockConditions": "解锁马里奥豪宅实验室（图书馆红色按钮）",
     "guideSteps": [
@@ -193,7 +193,7 @@
     "name": "阿米莉亚 (Amelia) - 咖啡店老板",
     "role": "SUPPORT",
     "locations": ["商场", "市中心", "健身房"],
-    "avatarUrl": "/images/阿米莉亚.png",
+    "avatarUrl": "./images/阿米莉亚.png",
     "description": "经常在商场和市中心区域活动的角色。",
     "unlockConditions": "在商场多次偶遇后解锁",
     "guideSteps": [
@@ -208,7 +208,7 @@
     "name": "艾玛 (Emma) - 秘书",
     "role": "SUPPORT",
     "locations": ["家", "教堂", "商场"],
-    "avatarUrl": "/images/艾玛.png",
+    "avatarUrl": "./images/艾玛.png",
     "description": "经常在家、教堂和商场区域活动的角色。",
     "unlockConditions": "在家或教堂多次偶遇后解锁",
     "guideSteps": [
@@ -223,7 +223,7 @@
     "name": "爱丽丝 (Alice) - 哥特女",
     "role": "SUPPORT",
     "locations": ["商场", "市中心", "健身房"],
-    "avatarUrl": "/images/爱丽丝.png",
+    "avatarUrl": "./images/爱丽丝.png",
     "description": "经常在商场和市中心区域活动的角色。",
     "unlockConditions": "在商场多次偶遇后解锁",
     "guideSteps": [
@@ -238,7 +238,7 @@
     "name": "大师 (Master) - 武器商店老板",
     "role": "SUPPORT",
     "locations": ["大师商店", "市中心"],
-    "avatarUrl": "/images/大师.png",
+    "avatarUrl": "./images/大师.png",
     "description": "武器商店的老板，可以购买各种武器和装备。",
     "unlockConditions": "前往大师商店",
     "guideSteps": [
@@ -253,7 +253,7 @@
     "name": "凤凰 (Phoenix) - 健身教练",
     "role": "SUPPORT",
     "locations": ["健身房", "商场", "市中心"],
-    "avatarUrl": "/images/凤凰.png",
+    "avatarUrl": "./images/凤凰.png",
     "description": "健身房教练，可以提供保镖服务和战斗训练。",
     "unlockConditions": "在健身房多次偶遇后解锁",
     "guideSteps": [
@@ -268,7 +268,7 @@
     "name": "卡塔琳娜 (Catalina) - 洲长夫人",
     "role": "SUPPORT",
     "locations": ["商场", "市中心", "健身房"],
-    "avatarUrl": "/images/卡塔琳娜.png",
+    "avatarUrl": "./images/卡塔琳娜.png",
     "description": "经常在商场和市中心区域活动的角色。",
     "unlockConditions": "在商场多次偶遇后解锁",
     "guideSteps": [
@@ -283,7 +283,7 @@
     "name": "柯比 (Kirby) - 牧场女",
     "role": "SUPPORT",
     "locations": ["商场", "市中心", "健身房"],
-    "avatarUrl": "/images/柯比.png",
+    "avatarUrl": "./images/柯比.png",
     "description": "经常在商场和市中心区域活动的角色。",
     "unlockConditions": "在商场多次偶遇后解锁",
     "guideSteps": [
@@ -298,7 +298,7 @@
     "name": "克劳迪娅 (Claudia) - 电视主播",
     "role": "SUPPORT",
     "locations": ["商场", "市中心", "健身房"],
-    "avatarUrl": "/images/克劳迪娅.png",
+    "avatarUrl": "./images/克劳迪娅.png",
     "description": "经常在商场和市中心区域活动的角色。",
     "unlockConditions": "在商场多次偶遇后解锁",
     "guideSteps": [
@@ -313,7 +313,7 @@
     "name": "克罗伊 (Chloe) - 网红",
     "role": "SUPPORT",
     "locations": ["商场", "市中心", "健身房"],
-    "avatarUrl": "/images/克罗伊.png",
+    "avatarUrl": "./images/克罗伊.png",
     "description": "经常在商场和市中心区域活动的角色。",
     "unlockConditions": "在商场多次偶遇后解锁",
     "guideSteps": [
@@ -328,7 +328,7 @@
     "name": "丽兹 (Liz) - 酒保",
     "role": "SUPPORT",
     "locations": ["商场", "市中心", "健身房"],
-    "avatarUrl": "/images/丽兹.png",
+    "avatarUrl": "./images/丽兹.png",
     "description": "经常在商场和市中心区域活动的角色。",
     "unlockConditions": "在商场多次偶遇后解锁",
     "guideSteps": [
@@ -343,7 +343,7 @@
     "name": "零小姐 (Miss Zero) - 道具店老板",
     "role": "SUPPORT",
     "locations": ["商场", "市中心", "健身房"],
-    "avatarUrl": "/images/零小姐.png",
+    "avatarUrl": "./images/零小姐.png",
     "description": "经常在商场和市中心区域活动的角色。",
     "unlockConditions": "在商场多次偶遇后解锁",
     "guideSteps": [
@@ -358,7 +358,7 @@
     "name": "罗伯特 (Robert) - 牧场男",
     "role": "SUPPORT",
     "locations": ["商场", "市中心", "健身房"],
-    "avatarUrl": "/images/罗伯特.png",
+    "avatarUrl": "./images/罗伯特.png",
     "description": "经常在商场和市中心区域活动的角色。",
     "unlockConditions": "在商场多次偶遇后解锁",
     "guideSteps": [
@@ -373,7 +373,7 @@
     "name": "马里奥 (Mario) - 州长",
     "role": "SUPPORT",
     "locations": ["马里奥豪宅", "市中心"],
-    "avatarUrl": "/images/马里奥.png",
+    "avatarUrl": "./images/马里奥.png",
     "description": "州长，马里奥豪宅的主人。拥有巨大的财富和影响力。",
     "unlockConditions": "前往马里奥豪宅",
     "guideSteps": [
@@ -388,7 +388,7 @@
     "name": "木村夫人 (Mrs. Kimura) - 日式餐厅老板",
     "role": "SUPPORT",
     "locations": ["商场", "市中心", "健身房"],
-    "avatarUrl": "/images/木村夫人.png",
+    "avatarUrl": "./images/木村夫人.png",
     "description": "日式餐厅老板，提供传统日本料理和茶道体验。",
     "unlockConditions": "在商场多次偶遇后解锁",
     "guideSteps": [
@@ -403,7 +403,7 @@
     "name": "妮娜 (Nina) - 护士",
     "role": "SUPPORT",
     "locations": ["野外旅行", "营地", "森林"],
-    "avatarUrl": "/images/妮娜.png",
+    "avatarUrl": "./images/妮娜.png",
     "description": "护士，经常与弗罗斯特一起出现。生存技能。",
     "unlockConditions": "在野外旅行中多次偶遇后解锁",
     "guideSteps": [
@@ -422,7 +422,7 @@
     "name": "黏土 (Clay)",
     "role": "SUPPORT",
     "locations": ["商场", "市中心", "健身房"],
-    "avatarUrl": "/images/黏土.png",
+    "avatarUrl": "./images/黏土.png",
     "description": "经常在商场和市中心区域活动的角色。",
     "unlockConditions": "在商场多次偶遇后解锁",
     "guideSteps": [
@@ -437,7 +437,7 @@
     "name": "塔莎 (Tasha)",
     "role": "SUPPORT",
     "locations": ["商场", "市中心", "健身房"],
-    "avatarUrl": "/images/塔莎.png",
+    "avatarUrl": "./images/塔莎.png",
     "description": "经常在商场和市中心区域活动的角色。",
     "unlockConditions": "在商场多次偶遇后解锁",
     "guideSteps": [
@@ -452,7 +452,7 @@
     "name": "特里斯坦 (Tristan)",
     "role": "SUPPORT",
     "locations": ["商场", "市中心", "健身房"],
-    "avatarUrl": "/images/特里斯坦.png",
+    "avatarUrl": "./images/特里斯坦.png",
     "description": "经常在商场和市中心区域活动的角色。",
     "unlockConditions": "在商场多次偶遇后解锁",
     "guideSteps": [
@@ -467,7 +467,7 @@
     "name": "托尼 (Tony)",
     "role": "SUPPORT",
     "locations": ["商场", "市中心", "健身房"],
-    "avatarUrl": "/images/托尼.png",
+    "avatarUrl": "./images/托尼.png",
     "description": "经常在商场和市中心区域活动的角色。",
     "unlockConditions": "在商场多次偶遇后解锁",
     "guideSteps": [
@@ -482,7 +482,7 @@
     "name": "喜万里 (Xiwanli)",
     "role": "SUPPORT",
     "locations": ["商场", "市中心", "健身房"],
-    "avatarUrl": "/images/喜万里.png",
+    "avatarUrl": "./images/喜万里.png",
     "description": "经常在商场和市中心区域活动的角色。",
     "unlockConditions": "在商场多次偶遇后解锁",
     "guideSteps": [
@@ -497,7 +497,7 @@
     "name": "伊莎贝拉 (Isabella)",
     "role": "SUPPORT",
     "locations": ["商场", "市中心", "健身房"],
-    "avatarUrl": "/images/伊莎贝拉.png",
+    "avatarUrl": "./images/伊莎贝拉.png",
     "description": "经常在商场和市中心区域活动的角色。",
     "unlockConditions": "在商场多次偶遇后解锁",
     "guideSteps": [
@@ -512,7 +512,7 @@
     "name": "祖里 (Zuri)",
     "role": "SUPPORT",
     "locations": ["商场", "市中心", "健身房"],
-    "avatarUrl": "/images/祖里.png",
+    "avatarUrl": "./images/祖里.png",
     "description": "经常在商场和市中心区域活动的角色。",
     "unlockConditions": "在商场多次偶遇后解锁",
     "guideSteps": [
@@ -527,7 +527,7 @@
     "name": "塞莱斯特 (Celeste) - 超级网红",
     "role": "SUPPORT",
     "locations": ["社交媒体", "摄影棚", "市中心"],
-    "avatarUrl": "/images/塞莱斯.png",
+    "avatarUrl": "./images/塞莱斯.png",
     "description": "超级网红，拥有大量粉丝和影响力。擅长社交媒体运营和内容创作。",
     "unlockConditions": "在社交媒体平台达到一定粉丝数后解锁",
     "guideSteps": [
@@ -546,7 +546,7 @@
     "name": "加百利 (Gabriel) - 摄影大师",
     "role": "SUPPORT",
     "locations": ["摄影棚", "艺术画廊", "市中心"],
-    "avatarUrl": "/images/加百利.png",
+    "avatarUrl": "./images/加百利.png",
     "description": "摄影大师，拥有专业的摄影技术和艺术眼光。可以为角色提供专业的摄影指导。",
     "unlockConditions": "在摄影相关任务中达到一定水平后解锁",
     "guideSteps": [
@@ -565,7 +565,7 @@
     "name": "乐声 (Yuesheng)",
     "role": "SUPPORT",
     "locations": ["音乐工作室", "录音棚", "市中心"],
-    "avatarUrl": "/images/乐声.png",
+    "avatarUrl": "./images/乐声.png",
     "description": "音乐人，擅长作曲和音乐制作。可以为角色提供音乐创作和表演指导。",
     "unlockConditions": "在音乐相关任务中展现天赋后解锁",
     "guideSteps": [
@@ -584,7 +584,7 @@
     "name": "克劳迪娅 (Claudia) - 电视主播",
     "role": "SUPPORT",
     "locations": ["电视台", "新闻中心", "市中心"],
-    "avatarUrl": "/images/克劳迪娅.png",
+    "avatarUrl": "./images/克劳迪娅.png",
     "description": "知名电视主播，拥有专业的播音技巧和媒体影响力。可以为角色提供媒体曝光机会。",
     "unlockConditions": "在媒体相关任务中达到一定知名度后解锁",
     "guideSteps": [
@@ -603,7 +603,7 @@
     "name": "河 (He)",
     "role": "SUPPORT",
     "locations": ["艺术区", "表演场所", "市中心"],
-    "avatarUrl": "/images/河.png",
+    "avatarUrl": "./images/河.png",
     "description": "男娘角色，拥有独特的艺术气质和表演天赋。擅长舞蹈和舞台表演。",
     "unlockConditions": "在艺术表演任务中展现兴趣后解锁",
     "guideSteps": [
@@ -622,7 +622,7 @@
     "name": "NYXARA",
     "role": "SUPPORT",
     "locations": ["神秘区域", "隐藏地点", "夜间场所"],
-    "avatarUrl": "/images/NYXARA.png",
+    "avatarUrl": "./images/NYXARA.png",
     "description": "神秘角色，拥有特殊能力和隐藏剧情。需要在特定条件下才能遇到。",
     "unlockConditions": "完成特定隐藏任务或在特定时间地点触发",
     "guideSteps": [
